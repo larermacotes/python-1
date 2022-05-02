@@ -1,5 +1,5 @@
 def multiply(a,b):
-   return "Nei"
+   return a * b
 
 def divide(a,b):
-   return "Nei"
+   return a / b
